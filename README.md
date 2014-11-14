@@ -12,3 +12,4 @@ Some of the neat things shown here:
 * How to initialize and use an AES/GCM/NoPadding Cipher.
 * How to manage multiple data encryption keys (naively).
 
+NOTE: I am not pretending that this is prod-ready code. Don't use it. Just look at it, then build your real stuff :)
